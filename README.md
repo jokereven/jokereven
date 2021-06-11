@@ -8,13 +8,12 @@ I'd like to do project that has relation to anime. :ghost:
 - HTML 
 - CSS
 - Javascript
-- auto.js
-- Node.js
-- Python
-- java
 - Go
 - React
 - taro
+- Node.js
+- Python
+- java
 
 :star: Here are some projects that I'm working on:
 - [datable](https://gitee.com/jokereven/Database)
