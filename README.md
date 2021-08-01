@@ -8,9 +8,9 @@
 
 #### `我开发的网站`
 
-[`个人博客💻`](https://zhou125disorder.icu/)
-[`code520.com.cn💻`](https://code520.com.cn/)
-[`home.code520.com.cn💻`](https://home.code520.com.cn/)
+[`code520.com.cn💻`](http://code520.com.cn/)
+[`doc.code520.com.cn💻`](http://doc.code520.com.cn/)
+[`cmd.code520.com.cn💻`](http://cmd.code520.com.cn/)
 
 #### `项目`
 #### [`code520🧧`](https://github.com/jokereven/code520)
