@@ -6,6 +6,7 @@
 - 📺 bilibili: [B站@jokereven的创业计划](https://space.bilibili.com/2104605936)
 - 📚 CSDN: [CSDN@ZHOU125disorder](https://blog.csdn.net/ZHOU125disorder)
 - 🤔 知乎: [知乎@jokereven](https://www.zhihu.com/people/jokereven)
+- 👭 微信公众号 [公众号@JokerEven]()
 - 📟 个人站点: [code520](http://code520.com.cn)
 - 📈 其它站点: [cmd](http://cmd.code520.com.cn) | [doc](http://doc.code520.com.cn)
 
