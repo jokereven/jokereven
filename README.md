@@ -1,11 +1,12 @@
-## Hi, jokereven here!👋
+## Hello, jokereven here!👋
 
-### A full stack developer from China🇨🇳.
+### 一名中国的全栈程序员
 
 - 🔭 GoReactTaro全栈攻城狮
 - 💬 微信:ZHOU125disorder
-- 📺 bilibili:[B站 jokereven的创业计划](https://space.bilibili.com/2104605936)
-- 📚 CSDN:[CSDN](https://blog.csdn.net/ZHOU125disorder)
+- 📺 bilibili:[B站 | jokereven的创业计划](https://space.bilibili.com/2104605936)
+- 📚 CSDN:[CSDN@ZHOU125disorder](https://blog.csdn.net/ZHOU125disorder)
+- 🤔 知乎[知乎@jokereven](https://www.zhihu.com/people/jokereven)
 
 <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Volcano-Yang&count_private=true&show_icons=true"/>
 
