@@ -10,10 +10,7 @@
 - 📟 个人站点: [code520](http://code520.com.cn)
 - 📈 其它站点: [cmd](http://cmd.code520.com.cn) | [doc](http://doc.code520.com.cn)
 
-<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jokereven&count_private=true&show_icons=true"/>
-
-
-<img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&layout=compact"/>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jokereven&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ### 🛠 &nbsp;Tech Stack
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
