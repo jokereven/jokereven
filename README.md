@@ -9,10 +9,10 @@
 - 🤔 知乎: [知乎@jokereven](https://www.zhihu.com/people/jokereven)
 - 📟 个人站点: [code520](http://code520.com.cn)
 
-<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jokereven&count_private=true&show_icons=true"/>
+<img width="456px" height="175px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jokereven&count_private=true&show_icons=true"/>
 
 
-<img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&layout=compact"/>
+<img width="456px" height="175px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&layout=compact"/>
 
 
 ### 🛠 &nbsp;Tech Stack
