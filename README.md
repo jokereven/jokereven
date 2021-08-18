@@ -10,9 +10,9 @@
 - 📟 个人站点: [code520](http://code520.com.cn)
 - 📈 其它站点: [cmd](http://cmd.code520.com.cn) | [doc](http://doc.code520.com.cn)
 
-<img width="256px" height="175px" alt=" GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jokereven&count_private=true&show_icons=true"/>
+<img width="285px" height="175px" alt=" GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jokereven&count_private=true&show_icons=true"/>
 
-<img width="256px" height="175px" alt=" Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&layout=compact"/>
+<img width="285px" height="175px" alt=" Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&layout=compact"/>
 
 
 ### 🛠 &nbsp;Tech Stack
