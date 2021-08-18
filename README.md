@@ -3,8 +3,9 @@
 ### A full stack developer from China🇨🇳.
 
 - 🔭 GoReactTaro全栈攻城狮
-- 💬 微信：ZHOU125disorder
-- [bilibili](https://space.bilibili.com/2104605936)
+- 💬 微信:ZHOU125disorder
+- 📺 bilibili:[B站 jokereven的创业计划](https://space.bilibili.com/2104605936)
+- 📚 CSDN:[CSDN](https://blog.csdn.net/ZHOU125disorder)
 
 <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Volcano-Yang&count_private=true&show_icons=true"/>
 
