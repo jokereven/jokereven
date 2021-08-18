@@ -1,8 +1,8 @@
-## Hi, I am Volcano-Yang!👋
+## Hi, jokereven here!👋
 
 ### A full stack developer from China🇨🇳.
 
-- 🔭  A boy working in **Tencent**.
+- 🔭  GoReactTaro全栈攻城狮
 - 📚  Learning **Vue3.0** & **Koa.js** & **Ts** now.
 - 🎓  I'm busy with **graduation project**.
 - 😄  Welcome to visit [**SZU ITer**](https://github.com/SZU-ITer/introduction-and-communication).
@@ -22,4 +22,4 @@
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:648941183@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-648941183@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:zhou125disorder@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhou125disorder@gmail.com-blue?style=flat-square&logo=gmail"></a>
