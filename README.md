@@ -1,4 +1,4 @@
-## Hello, jokereven here! 🃏
+## 我是jokereven 🃏
 
 ### 一名中国全栈程序员
 - 🔭 GoReactTaro全栈攻城狮
@@ -12,7 +12,6 @@
 - 📈 其它站点: [cmd](http://cmd.code520.com.cn) && [doc](http://doc.code520.com.cn)
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jokereven&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&layout=compact" />
 
 ### 🛠 &nbsp;Tech Stack
