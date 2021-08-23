@@ -3,11 +3,12 @@
 ### 一名中国全栈程序员
 - 🔭 GoReactTaro全栈攻城狮
 - 💬 微信: ZHOU125disorder
-- 💬 QQ: 3440681909
+- 💬 QQ: 2178066226
 - 📺 bilibili: [B站@jokereven的创业计划](https://space.bilibili.com/2104605936) | 抖音@jokereven的创业计划
 - 📚 CSDN: [CSDN@ZHOU125disorder](https://blog.csdn.net/ZHOU125disorder)
 - 🤔 知乎: [知乎@jokereven](https://www.zhihu.com/people/jokereven)
 - 👭 微信公众号: [公众号@JokerEven]
+- 👭 微信小程序: [小程序@zhou125disorder]
 - 📟 个人站点: [code520](http://code520.com.cn)
 - 📈 其它站点: [cmd](http://cmd.code520.com.cn) | [doc](http://doc.code520.com.cn)
 
