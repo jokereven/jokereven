@@ -1,18 +1,18 @@
-## 我是jokereven 🃏
+## Hey, jokereven here! 👋
 
-### 一名中国全栈程序员
-- 🔭 GoReactTaro全栈攻城狮
-- 💬 微信: ZHOU125disorder
-- 💬 QQ: 2178066226
-- 📺 bilibili: [B站@jokereven的创业计划](https://space.bilibili.com/2104605936) | 抖音@jokereven的创业计划
+### My name is Jokerven, a new student in Wuhan Vocational and Technical College.
+- 📌 技术栈: `GoReactTaro全栈攻城狮`
+- 💬 微信: `ZHOU125disorder`
+- 💬 QQ: `2178066226`
+- 📺 bilibili: [B站@jokereven的创业计划](https://space.bilibili.com/2104605936) and `抖音@jokereven的创业计划`
 - 📚 CSDN: [CSDN@ZHOU125disorder](https://blog.csdn.net/ZHOU125disorder)
 - 🤔 知乎: [知乎@jokereven](https://www.zhihu.com/people/jokereven)
 - 👭 微信公众号: [公众号@JokerEven]
 - 👭 微信小程序: [小程序@zhou125disorder]
 - 📟 个人站点: [code520](http://code520.com.cn)
-- 📈 其它站点: [cmd](http://cmd.code520.com.cn) | [doc](http://doc.code520.com.cn)
+- 📈 其它站点: [cmd](http://cmd.code520.com.cn) and [doc](http://doc.code520.com.cn)
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jokereven&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jokereven" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&layout=compact" />
 
 ### 🛠 &nbsp;Tech Stack
