@@ -12,8 +12,8 @@
 - 📟 个人站点: [code520](http://code520.com.cn)
 - 📈 其它站点: [cmd](http://cmd.code520.com.cn) and [doc](http://doc.code520.com.cn) and [ouaan](http://ouaan.code520.com.cn/)
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jokereven" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&layout=compact" />
+<img align="" src="https://github-readme-stats.vercel.app/api?username=jokereven" />
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&layout=compact" />
 
 ### 🛠 &nbsp;Tech Stack
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
