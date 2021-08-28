@@ -13,7 +13,7 @@
 - 📈 其它站点: [cmd](http://cmd.code520.com.cn) and [doc](http://doc.code520.com.cn) and [ouaan](http://ouaan.code520.com.cn/)
 
 ![Starts](https://github-readme-stats.vercel.app/api?username=jokereven)
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven&layout=compact)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven)
 
 ### 🛠 &nbsp;Tech Stack
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
@@ -22,5 +22,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻&nbsp;Connect with Me
 <a href="mailto:zhou125disorder@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhou125disorder@gmail.com-blue?style=flat-square&logo=gmail"></a>
