@@ -10,7 +10,7 @@
 - 👭 微信公众号: [公众号@JokerEven]
 - 👭 微信小程序: [小程序@zhou125disorder]
 - 📟 个人站点: [code520](http://code520.com.cn)
-- 📈 其它站点: [blog](http://blog.code520.com.cn) and [doc](http://doc.code520.com.cn)
+- 📈 其它站点: [博客](http://blog.code520.com.cn) and [文档学习](http://doc.code520.com.cn) and [职业职业者](http://freelancer.code520.com.cn/)
 
 <img height="175px" src="https://github-readme-stats.vercel.app/api?username=jokereven"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokereven"></img>
