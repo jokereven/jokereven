@@ -2,13 +2,13 @@
 
 ### My name is Jokerven, a new student in Wuhan Vocational and Technical College.
 - 📌 技术栈: `GoReactTaro全栈攻城狮`
-- 💬 微信: `ZHOU125disorder`
+- 💬 微信: `jokereven125`
 - 💬 QQ: `3440681909`
-- 📺 bilibili: [B站@jokereven的创业计划](https://space.bilibili.com/2104605936) and `抖音@jokereven的创业计划`
+- 📺 bilibili: [B站@程序员jokereven](https://space.bilibili.com/2104605936) and `抖音@程序员jokereven`
 - 📚 CSDN: [CSDN@ZHOU125disorder](https://blog.csdn.net/ZHOU125disorder)
 - 🤔 知乎: [知乎@jokereven](https://www.zhihu.com/people/jokereven)
 - 👭 微信公众号: [公众号@JokerEven]
-- 👭 微信小程序: [小程序@zhou125disorder]
+- 👭 微信小程序: [小程序@JOKER EVEN]
 - 📟 个人站点: [code520](http://code520.com.cn)
 - 📈 其它站点: [博客](http://blog.code520.com.cn) and [文档学习](http://doc.code520.com.cn) and [自由职业者](http://freelancer.code520.com.cn/)
 
