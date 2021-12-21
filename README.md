@@ -4,7 +4,7 @@
 - 📌 技术栈: `GoReactTaro全栈攻城狮`
 - 💬 微信: `jokereven125`
 - 💬 QQ: `3440681909`
-- 📺 bilibili: [B站@程序员jokereven](https://space.bilibili.com/2104605936) and `抖音@程序员jokereven`
+- 📺 bilibili: [B站@写代码的薛](https://space.bilibili.com/2104605936) and `抖音@写代码的薛`
 - 📚 CSDN: [CSDN@ZHOU125disorder](https://blog.csdn.net/ZHOU125disorder)
 - 🤔 知乎: [知乎@jokereven](https://www.zhihu.com/people/jokereven)
 - 👭 微信公众号: [公众号@JokerEven]
