@@ -23,4 +23,4 @@
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 
 ### 🤝🏻&nbsp;Connect with Me
-<a href="mailto:zjing125.cn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhou125disorder@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:zjing125.cn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zjing125.cn@gmail.com-blue?style=flat-square&logo=gmail"></a>
