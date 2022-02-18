@@ -4,7 +4,7 @@
 - 📌 技术栈: `Go、Node、React`
 - 💬 微信: `jokereven1215`
 - 💬 QQ: `2178066226`
-- 📺 bilibili: [B站@Joker-Even](https://space.bilibili.com/2104605936)
+- 📺 bilibili: [B站@Joker-Even](https://space.bilibili.com/2104605936) and [抖音@jokereven]
 - 📚 CSDN: [CSDN@ZHOU125disorder](https://blog.csdn.net/ZHOU125disorder)
 - 🤔 知乎: [知乎@jokereven](https://www.zhihu.com/people/jokereven)
 - 👭 微信公众号: [公众号@JokerEven]
