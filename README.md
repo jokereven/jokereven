@@ -1,4 +1,1 @@
- create a community like bilibili.
- 
- <!-- waka-box start -->
- <!-- waka-box end -->
+[me](blog.code520.com.cn/about) . [blog](blog.code520.com.cn)
