@@ -4,9 +4,9 @@ name: Update wakatime stats
 on:
   workflow_dispatch:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
   schedule:
     - cron: "5 0 * * *"
 
