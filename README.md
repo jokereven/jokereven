@@ -1,6 +1,6 @@
 Hey, jokereven here! 👋
 
-I'm Zhou Jing, an junior college student at WuHan.
+I'm Zhou Jing, an On the verge of graduation college student at WuHan.
 
 -   :hammer_and_pick: Go / React / Python / TypeScript
 -   :pencil2: Arch Linux / Windows / Hackintosh / Neovim
