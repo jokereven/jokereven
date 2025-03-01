@@ -16,8 +16,7 @@ My wakatime chart:
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/9f8118785e2d128d746db5f61b0e0a2a" target="_blank">📊 每周工作报告</a>
 ```text
-Text   🕓 2m ████████████████████▎░░░░░░░░░░░░░░ 57.9%
-Python 🕓 1m ██████████████▋░░░░░░░░░░░░░░░░░░░░ 42.1%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
