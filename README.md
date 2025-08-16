@@ -4,6 +4,5 @@
 
 ## 🧑‍💻 About Me
 - 🔨 Tech stack: **Go / React / Python / TypeScript**
-- 🖊️ Editor & OS: **Neovim** | **Arch Linux / Windows / Hackintosh**
-- 🌱 Identity: **Gopher**
-- 💭 Motto: *All is for consistency.*
+- 🖊️ Editor & OS: **Neovim** | **Arch Linux / Windows / Hackintosh/ Mac**
+- 💭 Motto: *“めんどくせー” — “What a drag.”*
