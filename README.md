@@ -8,10 +8,7 @@ I'm Zhou Jing, a college student who has graduated from Wuhan.
 
 My Github chart:
 
-![](https://ghchart.rshah.org/JonnieWayy)
-
-My wakatime chart:
-![](https://wakatime.com/share/@jokereven/1679dc82-4bf9-4b63-9203-390d608503de.png)
+![](https://ghchart.rshah.org/jokereven)
 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/9f8118785e2d128d746db5f61b0e0a2a" target="_blank">📊 每周工作报告</a>
