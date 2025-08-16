@@ -6,10 +6,6 @@ I'm Zhou Jing, a college student who has graduated from Wuhan.
 -   :seedling: Gopher
 -   :thought_balloon: All is for consistent.
 
-My Github chart:
-
-![](https://ghchart.rshah.org/jokereven)
-
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/9f8118785e2d128d746db5f61b0e0a2a" target="_blank">📊 每周工作报告</a>
 ```text
